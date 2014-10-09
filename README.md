@@ -1,7 +1,7 @@
 Igloo Linux Script
 ==================
 
-A script that uploads screenshots to a configured igloo server
+A script that uploads screenshots to a configured [igloo server](https://github.com/ThePengwin/igloo). 
 Copied and modified from my puush-linux script
 
 What does it need?
